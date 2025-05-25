@@ -1,1 +1,12 @@
-checkpoint/*
+.venv
+.vscode
+__pycache__
+*.csv
+*.json
+.git
+*.log
+checkpoint/
+data/
+!data/prepare_data_force_pose.py
+!data/prepare_data_h36m.py
+!data/prepare_data_parkour.py

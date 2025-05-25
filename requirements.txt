@@ -1,0 +1,19 @@
+# pip installable packages only
+
+colorama==0.4.5
+einops==0.4.1
+numpy==1.22.4
+scipy==1.7.3
+pillow==9.2.0
+scipy==1.7.3
+tqdm==4.64.0
+pandas
+
+# PyTorch / torchvision
+torch==1.7.1
+torchvision==0.8.2
+
+# その他モデル用ユーティリティ
+timm==0.4.12
+typing_extensions==4.3.0
+h5py==3.6.0

@@ -72,8 +72,9 @@ Each video/trial is a dict with the following keys:
 ### Creating a Conda Virtual Environment:
 
 ```bash
-conda env create -f environment.yml
-conda activate forcepose
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 ```
 
 ### Preparing data:
