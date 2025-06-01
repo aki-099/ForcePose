@@ -10,3 +10,6 @@ data/
 !data/prepare_data_force_pose.py
 !data/prepare_data_h36m.py
 !data/prepare_data_parkour.py
+cube_data
+=4.2.0
+*.html
